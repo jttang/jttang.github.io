@@ -9,10 +9,12 @@ redirect_from:
 
 <!-- <img src="../images/??" width="600"> -->
 
-I am currently postdoctoral research scholar at Department of Biostatistics and Epidemiology, University of Pennsylvania
-#[Academic Pages template](https://github.com/academicpages/academicpages.github.io)
+I am currently a postdoctoral research scholar at Department of Biostatistics and Epidemiology, University of Pennsylvania.
+
 
 My primary research interests includes network data analysis, functional / longitudinal data analysis.
+
+I am honored to receive the 2025 IMS New Researcher Travel Award.
 
 
 
