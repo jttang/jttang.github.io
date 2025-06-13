@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,7 +14,7 @@ I am currently a postdoctoral research scholar at Department of Biostatistics an
 
 My primary research interests includes network data analysis, functional / longitudinal data analysis.
 
-I am honored to receive the 2025 IMS New Researcher Travel Award.
+I am honored to receive the [2025 IMS New Researcher Travel Award](https://imstat.org/2025/05/15/ims-travel-awards-2025-meet-the-winners/).
 
 
 
