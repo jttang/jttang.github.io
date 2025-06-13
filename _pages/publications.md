@@ -10,7 +10,7 @@ author_profile: true
 **Network goodness-of-fit for the block-model family.** <br>
 _Journal of the American Statistical Association (Theory and Methods)_, 34(3), 1603-1624. [[website]](https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2479242)
 [[arxiv preprint]](https://arxiv.org/pdf/2502.08609) <br>
-[The 2025 IMS New Researcher Travel Award.]([https://imstat.org/2023/04/22/2023-hannan-graduate-student-travel-award-recipients-announced/](https://imstat.org/2025/05/15/ims-travel-awards-2025-meet-the-winners/))
+&nbsp;&nbsp;&nbsp;&nbsp;[[The 2025 IMS New Researcher Travel Award.]]([https://imstat.org/2023/04/22/2023-hannan-graduate-student-travel-award-recipients-announced/](https://imstat.org/2025/05/15/ims-travel-awards-2025-meet-the-winners/))
 
 - Tang, J. and Dette, H. (2025). <br>
 **Simultaneous semiparametric inference for single-index models.**  <br>
