@@ -37,8 +37,9 @@ _Recent Advances in Econometrics and Statistics: Festschrift in Honour of Marc H
 ## Working papers
 
 - Dette, H. and **Tang, J.**<span style="font-size: 1.2em; vertical-align: middle;">*</span> (2025) <br>
-  **New energy distances for statistical inference on infinite dimensional Hilbert spaces without moment conditions.** _(Major revision submitted to Bernoulli)_.
-[[arxiv]](https://arxiv.org/pdf/2403.11489)
+  **New energy distances for statistical inference on infinite dimensional Hilbert spaces without moment conditions.** [[arxiv]](https://arxiv.org/pdf/2403.11489) <br>
+  Major revision submitted to _Bernoulli_.
+
 
 
 ## Ph.D. dissertation
