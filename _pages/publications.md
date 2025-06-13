@@ -21,22 +21,22 @@ _Bernoulli_, 236(1), 105471. [[Preprint]](https://www.e-publications.org/ims/sub
 **Improved algorithm and bounds for successive projection.** <br>
 _International Conference on Learning Representations (ICLR). [[arxiv]](https://arxiv.org/abs/2403.11013)
 
-- Dette, H. and **Tang, J.**<sup>*</sup> (2024) 
+- Dette, H. and **Tang, J.**<sup>*</sup> (2024) <br>
 **Statistical inference for function-on-function linear regression.** <br>
 _Bernoulli_, 30, 304-331. [[DOI]](http://dx.doi.org/10.3150/23-BEJ1598)
 
-- Dette, H. and **Tang, J.**<sup>*</sup> (2024) 
+- Dette, H. and **Tang, J.**<sup>*</sup> (2024) <br>
 **An RKHS approach for pivotal inference in functional linear regression.** <br>
 _Statistica Sinica_, 34, 1521-1543. [[DOI]](https://www3.stat.sinica.edu.tw/statistica/j34n3/J34N312/J34N312.html)
 
-- Dette, H. and **Tang, J.**<sup>*</sup> (2024) 
+- Dette, H. and **Tang, J.**<sup>*</sup> (2024) <br>
 **Pivotal inference for function-on-function linear regression via self normalization.** <br>
 _Recent Advances in Econometrics and Statistics: Festschrift in Honour of Marc Hallin_, 557--574. [[DOI]](https://doi.org/10.1007/978-3-031-61853-6_28)
 
 
 ## Working papers
 
-- Dette, H. and **Tang, J.**<sup>*</sup> (2024)
+- Dette, H. and **Tang, J.**<sup>*</sup> (2024) <br>
   **New energy distances for statistical inference on infinite dimensional Hilbert spaces without moment conditions.** _(Major revision submitted to Bernoulli)_.
 [[arxiv preprint]](https://arxiv.org/pdf/2403.11489)
 
