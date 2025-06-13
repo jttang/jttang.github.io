@@ -17,28 +17,28 @@ _Journal of the American Statistical Association (Theory and Methods)_, 34(3), 1
 _Bernoulli_, 236(1), 105471. [[Preprint]](https://www.e-publications.org/ims/submission/BEJ/user/submissionFile/65356?confirm=cb3e591f)
 [[arxiv]](https://www.arxiv.org/abs/2407.01874)
 
-- Jin, J., Ke, Z. T., Moryoussef, G., **Tang, J.**<sup>*</sup> and Wang, J. (2024). <br>
+- Jin, J., Ke, Z. T., Moryoussef, G., **Tang, J.**<span style="font-size: 1.2em; vertical-align: middle;">*</span> and Wang, J. (2024). <br>
 **Improved algorithm and bounds for successive projection.** <br>
 _International Conference on Learning Representations (ICLR)_. [[arxiv]](https://arxiv.org/abs/2403.11013)
 
-- Dette, H. and **Tang, J.**<sup>*</sup> (2024) <br>
+- Dette, H. and **Tang, J.**<span style="font-size: 1.2em; vertical-align: middle;">*</span> (2024) <br>
 **Statistical inference for function-on-function linear regression.** <br>
 _Bernoulli_, 30, 304-331. [[DOI]](http://dx.doi.org/10.3150/23-BEJ1598)
 
-- Dette, H. and **Tang, J.**<sup>*</sup> (2024) <br>
+- Dette, H. and **Tang, J.**<span style="font-size: 1.2em; vertical-align: middle;">*</span> (2024) <br>
 **An RKHS approach for pivotal inference in functional linear regression.** <br>
 _Statistica Sinica_, 34, 1521-1543. [[DOI]](https://www3.stat.sinica.edu.tw/statistica/j34n3/J34N312/J34N312.html)
 
-- Dette, H. and **Tang, J.**<sup>*</sup> (2024) <br>
+- Dette, H. and **Tang, J.**<span style="font-size: 1.2em; vertical-align: middle;">*</span> (2024) <br>
 **Pivotal inference for function-on-function linear regression via self normalization.** <br>
 _Recent Advances in Econometrics and Statistics: Festschrift in Honour of Marc Hallin_, 557--574. [[DOI]](https://doi.org/10.1007/978-3-031-61853-6_28)
 
 
 ## Working papers
 
-- Dette, H. and **Tang, J.**<sup>*</sup> (2024) <br>
+- Dette, H. and **Tang, J.**<span style="font-size: 1.2em; vertical-align: middle;">*</span> (2025) <br>
   **New energy distances for statistical inference on infinite dimensional Hilbert spaces without moment conditions.** _(Major revision submitted to Bernoulli)_.
-[[arxiv preprint]](https://arxiv.org/pdf/2403.11489)
+[[arxiv]](https://arxiv.org/pdf/2403.11489)
 
 
 ## Ph.D. dissertation
