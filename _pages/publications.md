@@ -4,22 +4,22 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-(<sup>*</sup> indicates alphabetical authorship)
+(<span style="font-size: 1.2em; vertical-align: middle;">*</span> indicates alphabetical authorship)
 
-- Jin, J., Ke, Z. T., **Tang, J.**<sup>*</sup> and Wang, J. (2025). <br>
+- Jin, J., Ke, Z. T., **Tang, J.**<span style="font-size: 1.2em; vertical-align: middle;">*</span> and Wang, J. (2025). <br>
 **Network goodness-of-fit for the block-model family.** <br>
 _Journal of the American Statistical Association (Theory and Methods)_, 34(3), 1603-1624. [[website]](https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2479242)
 [[arxiv]](https://arxiv.org/pdf/2502.08609) <br>
 <span style="color:red">★</span> Jiajun Tang received the 2025 IMS New Researcher Travel Award.
 
-- Tang, J. and Dette, H. (2025). <br>
+- **Tang, J.** and Dette, H. (2025). <br>
 **Simultaneous semiparametric inference for single-index models.**  <br>
 _Bernoulli_, 236(1), 105471. [[Preprint]](https://www.e-publications.org/ims/submission/BEJ/user/submissionFile/65356?confirm=cb3e591f)
 [[arxiv]](https://www.arxiv.org/abs/2407.01874)
 
 - Jin, J., Ke, Z. T., Moryoussef, G., **Tang, J.**<sup>*</sup> and Wang, J. (2024). <br>
 **Improved algorithm and bounds for successive projection.** <br>
-_International Conference on Learning Representations (ICLR)_, 119(51), e2209816119. [[arxiv]](https://arxiv.org/abs/2403.11013)
+_International Conference on Learning Representations (ICLR). [[arxiv]](https://arxiv.org/abs/2403.11013)
 
 - Dette, H. and **Tang, J.**<sup>*</sup> (2024) 
 **Statistical inference for function-on-function linear regression.** <br>
