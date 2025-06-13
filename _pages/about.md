@@ -12,7 +12,7 @@ redirect_from:
 I am currently postdoctoral research scholar at Department of Biostatistics and Epidemiology, University of Pennsylvania
 #[Academic Pages template](https://github.com/academicpages/academicpages.github.io)
 
-My primary research interests network data analysis, functional / longitudinal data analysis.
+My primary research interests includes network data analysis, functional / longitudinal data analysis.
 
 
 
