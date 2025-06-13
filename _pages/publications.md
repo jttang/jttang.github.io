@@ -14,7 +14,7 @@ _Journal of the American Statistical Association (Theory and Methods)_, 34(3), 1
 
 - Tang, J. and Dette, H. (2025). <br>
 **Simultaneous semiparametric inference for single-index models.**  <br>
-_Bernoulli_, 236(1), 105471. [[Preprint at Publisher's website]](https://www.e-publications.org/ims/submission/BEJ/user/submissionFile/65356?confirm=cb3e591f)
+_Bernoulli_, 236(1), 105471. [[Preprint]](https://www.e-publications.org/ims/submission/BEJ/user/submissionFile/65356?confirm=cb3e591f)
 [[arxiv preprint]](https://www.arxiv.org/abs/2407.01874)
 
 - Jin, J., Ke, Z. T., Moryoussef, G., **Tang, J.**<sup>*</sup> and Wang, J. (2024). <br>
@@ -37,7 +37,7 @@ _Recent Advances in Econometrics and Statistics: Festschrift in Honour of Marc H
 ## Working papers
 
 - Dette, H. and **Tang, J.**<sup>*</sup> (2024)
-  **New energy distances for statistical inference on infinite dimensional Hilbert spaces without moment conditions.** _(Major revision submitted to Bernoulli)_. <br>
+  **New energy distances for statistical inference on infinite dimensional Hilbert spaces without moment conditions.** _(Major revision submitted to Bernoulli)_.
 [[arxiv preprint]](https://arxiv.org/pdf/2403.11489)
 
 
