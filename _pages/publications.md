@@ -43,5 +43,4 @@ _Recent Advances in Econometrics and Statistics: Festschrift in Honour of Marc H
 
 ## Ph.D. dissertation
 
-- **Tao, Y.** (2024). Statistical inference and applications for conditional heteroskedasticity models with stable innovations.
-(稳定新息驱动的条件异方差模型的统计推断与应用)
+- **Tang, J.** (2021). Some Theroetical Results on Measurement Error Problems. [[The University of Melbourne Library]](https://minerva-access.unimelb.edu.au/items/c148585f-064a-501f-a2e2-61ef409bddaf)
