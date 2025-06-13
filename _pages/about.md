@@ -22,7 +22,7 @@ My primary research interests network data analysis, functional / longitudinal d
 * 2021 - 2023:  Postdoctoral research scholar, Fakultät für Mathematik, Ruhr--Universität Bochum, Germany.
 
 ## Education
-* 2016 - 2021:  Ph.D. in Statistics, the University of Melbourne.
+* 2016 - 2021:  Ph.D. in Statistics, the University of Melbourne, Australia.
 * 2012 - 2016:  B.S. in Statistics, Peking University.
 
 
