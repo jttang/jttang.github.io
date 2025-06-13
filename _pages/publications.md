@@ -19,7 +19,7 @@ _Bernoulli_, 236(1), 105471. [[Preprint]](https://www.e-publications.org/ims/sub
 
 - Jin, J., Ke, Z. T., Moryoussef, G., **Tang, J.**<sup>*</sup> and Wang, J. (2024). <br>
 **Improved algorithm and bounds for successive projection.** <br>
-_International Conference on Learning Representations (ICLR). [[arxiv]](https://arxiv.org/abs/2403.11013)
+_International Conference on Learning Representations (ICLR)_. [[arxiv]](https://arxiv.org/abs/2403.11013)
 
 - Dette, H. and **Tang, J.**<sup>*</sup> (2024) <br>
 **Statistical inference for function-on-function linear regression.** <br>
