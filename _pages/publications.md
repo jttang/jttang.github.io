@@ -6,7 +6,7 @@ author_profile: true
 ---
 (<span style="font-size: 1.2em; vertical-align: middle;">*</span> indicates alphabetical authorship)
 
-- Jin, J., Ke, Z. T., **Tang, J.**<span style="font-size: 1.2em; vertical-align: middle;">*</span> and Wang, J. (2025). [[website]](https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2479242)
+- Jin, J., Ke, T., **Tang, J.**<span style="font-size: 1.2em; vertical-align: middle;">*</span> and Wang, J. (2025). [[website]](https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2479242)
 [[arxiv]](https://arxiv.org/pdf/2502.08609) <br>
 **Network goodness-of-fit for the block-model family.** <br>
 _Journal of the American Statistical Association (Theory and Methods)_, 34(3), 1603-1624.  <br>
@@ -17,7 +17,7 @@ _Journal of the American Statistical Association (Theory and Methods)_, 34(3), 1
 [[arxiv]](https://www.arxiv.org/abs/2407.01874)<br>
 _Bernoulli (to appear)_, 236, 105471. 
 
-- Jin, J., Ke, Z. T., Moryoussef, G., **Tang, J.**<span style="font-size: 1.2em; vertical-align: middle;">*</span> and Wang, J. (2024). <br>
+- Jin, J., Ke, T., Moryoussef, G., **Tang, J.**<span style="font-size: 1.2em; vertical-align: middle;">*</span> and Wang, J. (2024). <br>
 **Improved algorithm and bounds for successive projection.** [[arxiv]](https://arxiv.org/abs/2403.11013) <br>
 _International Conference on Learning Representations (ICLR)_. 
 
