@@ -23,7 +23,7 @@ repository               : "jttang/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Name"
+  name             : ""
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
   location         : #"Earth"
