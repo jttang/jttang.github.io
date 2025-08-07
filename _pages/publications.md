@@ -34,7 +34,7 @@ _Statistica Sinica_, 34, 1521-1543.
 _Recent Advances in Econometrics and Statistics: Festschrift in Honour of Marc Hallin_, 557-574. 
 
 
-## Working papers
+## Submitted papers
 
 - Dette, H. and **Tang, J.**<span style="font-size: 1.2em; vertical-align: middle;">*</span> (2025) <br>
   **New energy distances for statistical inference on infinite dimensional Hilbert spaces without moment conditions.** [[arxiv]](https://arxiv.org/pdf/2403.11489) <br>
