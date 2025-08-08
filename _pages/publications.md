@@ -13,9 +13,9 @@ _Journal of the American Statistical Association (Theory and Methods)_, 34(3), 1
 <span style="color:red">★</span> Jiajun Tang received the 2025 IMS New Researcher Travel Award.
 
 - **Tang, J.** and Dette, H. (2025). <br>
-**Simultaneous semiparametric inference for single-index models.**  [[Preprint]](https://www.e-publications.org/ims/submission/BEJ/user/submissionFile/65356?confirm=cb3e591f)
-[[arxiv]](https://www.arxiv.org/abs/2407.01874)<br>
-_Bernoulli (to appear)_, 236, 105471. 
+**Simultaneous semiparametric inference for single-index models.**
+[[DOI]](http://dx.doi.org/10.3150/24-BEJ1834) <br>
+_Bernoulli_, 31, 2962-2986. 
 
 - Jin, J., Ke, T., Moryoussef, G., **Tang, J.**<span style="font-size: 1.2em; vertical-align: middle;">*</span> and Wang, J. (2024). <br>
 **Improved algorithm and bounds for successive projection.** [[arxiv]](https://arxiv.org/abs/2403.11013) <br>
