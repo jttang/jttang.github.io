@@ -40,6 +40,8 @@ _Recent Advances in Econometrics and Statistics: Festschrift in Honour of Marc H
   **New energy distances for statistical inference on infinite dimensional Hilbert spaces without moment conditions.** [[arxiv]](https://arxiv.org/pdf/2403.11489) <br>
   Major revision submitted to _Bernoulli_.
 
+
+-->
 ## Selected working papers
 
 - **Tang, J.** and Guo, W. (2025) <br>
@@ -51,7 +53,7 @@ _Recent Advances in Econometrics and Statistics: Festschrift in Honour of Marc H
   
 - Carroll, R., Delaigle, A. and **Tang, J.** (2025). <br>
 **Nonparametric estimation of the Healthy Eating Index density.**
-
+-->
 
 
 ## Ph.D. dissertation
