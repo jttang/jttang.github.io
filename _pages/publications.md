@@ -6,11 +6,11 @@ author_profile: true
 ---
 (<span style="font-size: 1.2em; vertical-align: middle;">*</span> indicates alphabetical authorship)
 
-- Jin, J., Ke, T., **Tang, J.**<span style="font-size: 1.2em; vertical-align: middle;">*</span> and Wang, J. (2025). [[website]](https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2479242)
+- Jin, J., Ke, T., **Tang, J.**<span style="font-size: 1.2em; vertical-align: middle;">*</span> and Wang, J. (2025). [[DOI]](https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2479242)
 [[arxiv]](https://arxiv.org/pdf/2502.08609) <br>
 **Network goodness-of-fit for the block-model family.** <br>
-_Journal of the American Statistical Association (Theory and Methods)_, 34(3), 1603-1624.  <br>
-<span style="color:red">★</span> Jiajun Tang received the 2025 IMS New Researcher Travel Award.
+_Journal of the American Statistical Association (Theory and Methods)_, 34, 1603-1624.  <br>
+<span style="color:red">★</span> Jiajun Tang received 2025 IMS New Researcher Travel Awards.
 
 - **Tang, J.** and Dette, H. (2025). <br>
 **Simultaneous semiparametric inference for single-index models.**
