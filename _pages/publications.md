@@ -45,6 +45,9 @@ _Recent Advances in Econometrics and Statistics: Festschrift in Honour of Marc H
 - **Tang, J.** and Guo, W. (2025) <br>
   **Probabilistic longitudinal mixed-effect functional principal component analysis with application to longitudinal ECG tracings.**
 
+- Deo, R., Yang, W., **Tang, J.**, Marchlinski, F., Go, A. S., Soliman, E. Z. and Guo W. (2025). <br>
+**Longitudinal trajectories of ECG tracings and the risk of atrial fibrillation.**
+
   
 - Carroll, R., Delaigle, A. and **Tang, J.** (2025). <br>
 **Nonparametric estimation of the Healthy Eating Index density.**
