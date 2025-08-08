@@ -18,7 +18,7 @@ _Journal of the American Statistical Association (Theory and Methods)_, 34, 1603
 _Bernoulli_, 31, 2962-2986. 
 
 - Jin, J., Ke, T., Moryoussef, G., **Tang, J.**<span style="font-size: 1.2em; vertical-align: middle;">*</span> and Wang, J. (2024). <br>
-**Improved algorithm and bounds for successive projection.** [[arxiv]](https://arxiv.org/abs/2403.11013) <br>
+**Improved algorithm and bounds for successive projection.** [[OpenReview]](https://openreview.net/forum?id=GlpawHh80l) [[arxiv]](https://arxiv.org/abs/2403.11013) <br>
 _International Conference on Learning Representations (ICLR)_. 
 
 - Dette, H. and **Tang, J.**<span style="font-size: 1.2em; vertical-align: middle;">*</span> (2024) <br>
