@@ -41,7 +41,7 @@ _Recent Advances in Econometrics and Statistics: Festschrift in Honour of Marc H
   Major revision submitted to _Bernoulli_.
 
 
--->
+<!--
 ## Selected working papers
 
 - **Tang, J.** and Guo, W. (2025) <br>
