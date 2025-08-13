@@ -6,7 +6,7 @@ author_profile: true
 ---
 (<span style="font-size: 1.2em; vertical-align: middle;">*</span> indicates alphabetical authorship)
 
-- Jin, J., Ke, T., **Tang, J.**<span style="font-size: 1.2em; vertical-align: middle;">*</span> and Wang, J. (2025). [[DOI]](https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2479242)
+- Jin, J., Ke, T., **Tang, J.**<span style="font-size: 1.2em; vertical-align: middle;">*</span> and Wang, J. (2025). [[DOI]](https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2479242) [[code at publisher's website]](https://ndownloader.figstatic.com/articles/28695866/versions/2)
 [[arxiv]](https://arxiv.org/pdf/2502.08609) <br>
 **Network goodness-of-fit for the block-model family.** <br>
 _Journal of the American Statistical Association (Theory and Methods)_, 34, 1603-1624.  <br>
@@ -26,7 +26,7 @@ _International Conference on Learning Representations (ICLR)_.
 _Bernoulli_, 30, 304-331. 
 
 - Dette, H. and **Tang, J.**<span style="font-size: 1.2em; vertical-align: middle;">*</span> (2024) <br>
-**An RKHS approach for pivotal inference in functional linear regression.** [[DOI]](https://www3.stat.sinica.edu.tw/statistica/j34n3/J34N312/J34N312.html) <br>
+**An RKHS approach for pivotal inference in functional linear regression.** [[DOI]](https://www3.stat.sinica.edu.tw/statistica/j34n3/J34N312/J34N312.html)[[code]](https://github.com/jttang/SN_RKHS) <br>
 _Statistica Sinica_, 34, 1521-1543. 
 
 - Dette, H. and **Tang, J.**<span style="font-size: 1.2em; vertical-align: middle;">*</span> (2024) <br>
