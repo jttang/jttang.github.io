@@ -40,9 +40,13 @@ _Recent Advances in Econometrics and Statistics: Festschrift in Honour of Marc H
   **New energy distances for statistical inference on infinite dimensional Hilbert spaces without moment conditions.** [[arxiv]](https://arxiv.org/pdf/2403.11489) <br>
   Major revision submitted to _Bernoulli_.
 
+## Selected working papers
+
+- Carroll, R., Delaigle, A. and **Tang, J.** (2025). <br>
+**Nonparametric estimation of the Healthy Eating Index density.**
 
 <!--
-## Selected working papers
+
 
 - **Tang, J.** and Guo, W. (2025) <br>
   **Probabilistic longitudinal mixed-effect functional principal component analysis with application to longitudinal ECG tracings.**
@@ -51,8 +55,7 @@ _Recent Advances in Econometrics and Statistics: Festschrift in Honour of Marc H
 **Longitudinal trajectories of ECG tracings and the risk of atrial fibrillation.**
 
   
-- Carroll, R., Delaigle, A. and **Tang, J.** (2025). <br>
-**Nonparametric estimation of the Healthy Eating Index density.**
+
 -->
 
 
