@@ -42,7 +42,7 @@ _Recent Advances in Econometrics and Statistics: Festschrift in Honour of Marc H
 
 ## Selected working papers
 
-- Carroll, R., Delaigle, A. and **Tang, J.** (2025). <br>
+- Carroll, R., Delaigle, A. and **Tang, J.**<span style="font-size: 1.2em; vertical-align: middle;">*</span> (2025). <br>
 **Nonparametric estimation of the Healthy Eating Index density.**
 
 <!--
