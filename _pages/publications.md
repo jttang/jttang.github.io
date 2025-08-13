@@ -26,7 +26,7 @@ _International Conference on Learning Representations (ICLR)_.
 _Bernoulli_, 30, 304-331. 
 
 - Dette, H. and **Tang, J.**<span style="font-size: 1.2em; vertical-align: middle;">*</span> (2024) <br>
-**An RKHS approach for pivotal inference in functional linear regression.** [[DOI]](https://www3.stat.sinica.edu.tw/statistica/j34n3/J34N312/J34N312.html)[[code]](https://github.com/jttang/SN_RKHS) <br>
+**An RKHS approach for pivotal inference in functional linear regression.** [[DOI]](https://www3.stat.sinica.edu.tw/statistica/j34n3/J34N312/J34N312.html) [[code]](https://github.com/jttang/SN_RKHS) <br>
 _Statistica Sinica_, 34, 1521-1543. 
 
 - Dette, H. and **Tang, J.**<span style="font-size: 1.2em; vertical-align: middle;">*</span> (2024) <br>
