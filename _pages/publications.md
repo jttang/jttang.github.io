@@ -37,9 +37,9 @@ _Statistica Sinica_, 34, 1521-1543.
 **Pivotal inference for function-on-function linear regression via self normalization.** [[DOI]](https://doi.org/10.1007/978-3-031-61853-6_28) <br>
 _Recent Advances in Econometrics and Statistics: Festschrift in Honour of Marc Hallin_, 557-574. 
 
-
+<!--
 ## Submitted papers
-
+-->
 
 
 ## Selected working papers
