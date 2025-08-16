@@ -10,10 +10,11 @@ author_profile: true
 [[arxiv]](https://arxiv.org/pdf/2502.08609) [[code and supplement]](https://www.tandfonline.com/doi/suppl/10.1080/01621459.2025.2479242?scroll=top)<br>
 **Network goodness-of-fit for the block-model family.** <br>
 _Journal of the American Statistical Association (Theory and Methods)_, to appear.<br>
+<span style="color:red">★</span> Jiajun Tang received 2025 IMS New Researcher Travel Awards.
 <!--
 34, 1603-1624.  
 -->
-<span style="color:red">★</span> Jiajun Tang received 2025 IMS New Researcher Travel Awards.
+
 
 - Dette, H. and **Tang, J.**<span style="font-size: 1.2em; vertical-align: middle;">*</span> (2025) <br>
   **New energy distances for statistical inference on infinite dimensional Hilbert spaces without moment conditions.** [[arxiv]](https://arxiv.org/abs/2403.11489) <br>
