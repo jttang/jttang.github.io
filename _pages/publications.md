@@ -30,7 +30,7 @@ _Bernoulli_, 31, 2962-2986.
 _International Conference on Learning Representations (ICLR)_. 
 
 - Dette, H. and **Tang, J.**<span style="font-size: 1.2em; vertical-align: middle;">*</span> (2024) <br>
-**Statistical inference for function-on-function linear regression.** [[DOI]](http://dx.doi.org/10.3150/23-BEJ1598) <br>
+**Statistical inference for function-on-function linear regression.** [[DOI]](http://dx.doi.org/10.3150/23-BEJ1598) [[arxiv]](https://arxiv.org/abs/2109.13603)<br>
 _Bernoulli_, 30, 304-331. 
 
 - Dette, H. and **Tang, J.**<span style="font-size: 1.2em; vertical-align: middle;">*</span> (2024) <br>
