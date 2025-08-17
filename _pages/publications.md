@@ -22,7 +22,7 @@ _Journal of the American Statistical Association (Theory and Methods)_, to appea
 
 - **Tang, J.** and Dette, H. (2025). <br>
 **Simultaneous semiparametric inference for single-index models.**
-[[DOI]](http://dx.doi.org/10.3150/24-BEJ1834) <br>
+[[DOI]](http://dx.doi.org/10.3150/24-BEJ1834) [[arxiv]](https://arxiv.org/abs/2407.01874)<br>
 _Bernoulli_, 31, 2962-2986.
 
 - Jin, J., Ke, T., Moryoussef, G., **Tang, J.**<span style="font-size: 1.2em; vertical-align: middle;">*</span> and Wang, J. (2024). <br>
