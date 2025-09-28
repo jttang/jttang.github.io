@@ -17,9 +17,9 @@ and [Jiashun Jin](https://www.stat.cmu.edu/~jiashun/).
 **Email:** jttang[at]upenn.edu.
 
 ## Research interests
-* Methodology: Network data analysis, functional and longitudinal data analysis, nonparametric and semiparametric statistics, measurement error problems, time series analysis.
-* Theory: Probabilistic limit theory, self-normalization, reproducing kernel Hilbert space (RKHS), minimax theory.
-* Applications: Electrocardiogram (ECG) data; electronic health records (EHR) data.
+* **Methodology:** Network data analysis, functional and longitudinal data analysis, nonparametric and semiparametric statistics, measurement error problems, time series analysis.
+* **Theory:** Probabilistic limit theory, self-normalization, reproducing kernel Hilbert space (RKHS), minimax theory.
+* **Applications:** Electrocardiogram (ECG) data; electronic health records (EHR) data.
 
 
 ## Academic appointment
@@ -35,7 +35,6 @@ and [Jiashun Jin](https://www.stat.cmu.edu/~jiashun/).
 ## Publications
 
 (<span style="font-size: 1.2em; vertical-align: middle;">*</span> indicates alphabetical authorship)
-
 - Jin, J., Ke, T., **Tang, J.**<span style="font-size: 1.2em; vertical-align: middle;">*</span> and Wang, J. (2025). [[DOI]](https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2479242) 
 [[arxiv]](https://arxiv.org/pdf/2502.08609) [[code and supplement]](https://www.tandfonline.com/doi/suppl/10.1080/01621459.2025.2479242?scroll=top)<br>
 **Network goodness-of-fit for the block-model family.** <br>
@@ -77,7 +76,6 @@ _Recent Advances in Econometrics and Statistics: Festschrift in Honour of Marc H
 
 
 **Selected working papers**
-
 - Carroll, R., Delaigle, A. and **Tang, J.**<span style="font-size: 1.2em; vertical-align: middle;">*</span> (2025). <br>
 **Nonparametric estimation of the Healthy Eating Index density.**
 
@@ -96,17 +94,13 @@ _Recent Advances in Econometrics and Statistics: Festschrift in Honour of Marc H
 
 
 **Ph.D. dissertation**
-
 - **Tang, J.** (2021). Some Theroetical Results on Measurement Error Problems. [[The University of Melbourne Library]](https://minerva-access.unimelb.edu.au/items/c148585f-064a-501f-a2e2-61ef409bddaf)
 
 ## Teaching Experience
 
 **Teaching assistant at the University of Melbourne**
-
 - MAST10005 Calculus I (Fall 2018)
-
 - MAST20005 Statistics (Spring 2018, Spring 2019)
-
 - MAST20006 Probability for Statistics (Fall 2019, Fall 2020)
 
 **Co-instructor at Ruhr--Universität Bochum**
