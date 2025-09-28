@@ -15,9 +15,9 @@ and [Jiashun Jin](https://www.stat.cmu.edu/~jiashun/).
 -->
 
 ## Research interests
-Methodology: Network data analysis, functional and longitudinal data analysis, nonparametric and semiparametric statistics, measurement error problems, time series analysis.
-Theory: Probabilistic limit theory, self-normalization, reproducing kernel Hilbert space (RKHS), minimax theory.
-Applications: Electrocardiogram (ECG) data; electronic health records (EHR) data.
+* Methodology: Network data analysis, functional and longitudinal data analysis, nonparametric and semiparametric statistics, measurement error problems, time series analysis.
+* Theory: Probabilistic limit theory, self-normalization, reproducing kernel Hilbert space (RKHS), minimax theory.
+* Applications: Electrocardiogram (ECG) data; electronic health records (EHR) data.
 
 
 
