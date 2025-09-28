@@ -29,7 +29,7 @@ and [Jiashun Jin](https://www.stat.cmu.edu/~jiashun/).
 
 ## Education
 * 2016 - 2021:  Ph.D. in Statistics, the University of Melbourne, Australia.
-* 2012 - 2016:  B.S. in Statistics, Peking University.
+* 2012 - 2016:  B.S. in Statistics, Peking University, China
 
 
 ## Publications
