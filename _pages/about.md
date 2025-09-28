@@ -77,7 +77,7 @@ _Recent Advances in Econometrics and Statistics: Festschrift in Honour of Marc H
 -->
 
 
-** Selected working papers **
+**Selected working papers**
 
 - Carroll, R., Delaigle, A. and **Tang, J.**<span style="font-size: 1.2em; vertical-align: middle;">*</span> (2025). <br>
 **Nonparametric estimation of the Healthy Eating Index density.**
@@ -96,7 +96,20 @@ _Recent Advances in Econometrics and Statistics: Festschrift in Honour of Marc H
 -->
 
 
-** Ph.D. dissertation **
+**Ph.D. dissertation**
 
 - **Tang, J.** (2021). Some Theroetical Results on Measurement Error Problems. [[The University of Melbourne Library]](https://minerva-access.unimelb.edu.au/items/c148585f-064a-501f-a2e2-61ef409bddaf)
 
+## Teaching Experience
+
+**Teaching assistant at the University of Melbourne**
+
+- MAST10005 Calculus I (Fall 2018)
+
+- MAST20005 Statistics (Spring 2018, Spring 2019)
+
+- MAST20006 Probability for Statistics (Fall 2019, Fall 2020)
+
+**Co-instructor at Ruhr--Universität Bochum**
+- Reproducing Kernel Hilbert Space (Spring 2021)
+- Mathematical Foundations for Data Science (Fall 2022)
