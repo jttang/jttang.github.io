@@ -99,9 +99,9 @@ _Recent Advances in Econometrics and Statistics: Festschrift in Honour of Marc H
 ## Teaching Experience
 
 **Teaching assistant at the University of Melbourne**
-- MAST10005 Calculus I (Fall 2018)
-- MAST20005 Statistics (Spring 2018, Spring 2019)
-- MAST20006 Probability for Statistics (Fall 2019, Fall 2020)
+- Calculus I (Fall 2018)
+- Statistics (Spring 2018, Spring 2019)
+- Probability for Statistics (Fall 2019, Fall 2020)
 
 **Co-instructor at Ruhr--Universität Bochum**
 - Reproducing Kernel Hilbert Space (Spring 2021)
