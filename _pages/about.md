@@ -17,9 +17,9 @@ and [Jiashun Jin](https://www.stat.cmu.edu/~jiashun/).
 **Email:** jttang[at]upenn.edu.
 
 ## Research interests
-* **Methodology:** Network data analysis, functional and longitudinal data analysis, nonparametric and semiparametric statistics, measurement error problems, time series analysis.
-* **Theory:** Probabilistic limit theory, self-normalization, reproducing kernel Hilbert space (RKHS), minimax theory.
-* **Applications:** Electrocardiogram (ECG) data; electronic health records (EHR) data.
+* **Methodology:** Network data analysis, functional and longitudinal data analysis, nonparametric and semiparametric statistics, measurement errors.
+* **Theory:** Asymptotic theory, self-normalization, reproducing kernel Hilbert space (RKHS), minimax theory.
+* **Applications:** Large cohort studies, cardiovascular disease, chronic kidney disease, electronic health record (EHR) data.
 
 
 ## Academic appointment
@@ -74,12 +74,12 @@ _Recent Advances in Econometrics and Statistics: Festschrift in Honour of Marc H
 ## Submitted papers
 -->
 
-
+<!--
 **Selected working papers**
 - Carroll, R., Delaigle, A. and **Tang, J.**<span style="font-size: 1.2em; vertical-align: middle;">*</span> (2025). <br>
 **Nonparametric estimation of the Healthy Eating Index density.**
 
-<!--
+
 
 
 - **Tang, J.** and Guo, W. (2025) <br>
