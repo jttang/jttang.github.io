@@ -17,7 +17,7 @@ and [Jiashun Jin](https://www.stat.cmu.edu/~jiashun/).
 **Email:** jttang[at]upenn.edu.
 
 ## Research interests
-* **Methodology:** Network data analysis, functional and longitudinal data analysis, nonparametric and semiparametric statistics, measurement errors.
+* **Methodology:** Network data analysis, functional data analysis, longitudinal data analysis, nonparametric and semiparametric statistics, measurement errors.
 * **Theory:** Asymptotic theory, self-normalization, reproducing kernel Hilbert space (RKHS), minimax theory.
 * **Applications:** Large cohort studies, cardiovascular disease, chronic kidney disease, electronic health record (EHR) data.
 
