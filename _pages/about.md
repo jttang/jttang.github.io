@@ -14,7 +14,7 @@ I am currently a postdoctoral research scholar at Department of Biostatistics an
 and [Jiashun Jin](https://www.stat.cmu.edu/~jiashun/).
 -->
 
-**Email:** jttang[at]upenn.edu.
+**Email:** jttang[at]upenn.edu
 
 ## Research interests
 * **Methodology:** Network data analysis, functional data analysis, longitudinal data analysis, nonparametric and semiparametric statistics, measurement errors.
